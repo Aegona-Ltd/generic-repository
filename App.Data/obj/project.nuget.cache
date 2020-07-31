@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6HAQ5onQ/m+IOTSR10MvCnMiEeKVl/WbVIr2RVLxiSpRe/q9PPebS5Fbxl8gS9hFf0PDU0XHoUO7w+RHfFhjUQ==",
+  "dgSpecHash": "Cs31IhQ7UaE5h4Xo1oeV3L7+58Z8LOGlgdlRmYK4JHoojkG/DHT6tI6Nlccn239uebScUnzuZpAKltrU45T0RQ==",
   "success": true,
-  "projectFilePath": "C:\\vs2019\\generic-repository\\GenericRepository\\GenericRepository.csproj",
+  "projectFilePath": "C:\\vs2019\\generic-repository\\App.Data\\App.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VietAnh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\VietAnh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

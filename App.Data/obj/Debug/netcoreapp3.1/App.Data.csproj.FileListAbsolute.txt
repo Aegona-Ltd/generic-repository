@@ -1,0 +1,5 @@
+C:\vs2019\generic-repository\App.Data\bin\Debug\netcoreapp3.1\App.Data.deps.json
+C:\vs2019\generic-repository\App.Data\bin\Debug\netcoreapp3.1\App.Data.dll
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.csprojAssemblyReference.cache
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.AssemblyInfoInputs.cache
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.AssemblyInfo.cs
