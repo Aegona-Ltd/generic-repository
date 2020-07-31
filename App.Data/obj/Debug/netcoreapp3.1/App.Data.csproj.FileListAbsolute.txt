@@ -3,3 +3,7 @@ C:\vs2019\generic-repository\App.Data\bin\Debug\netcoreapp3.1\App.Data.dll
 C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.csprojAssemblyReference.cache
 C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.AssemblyInfoInputs.cache
 C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.AssemblyInfo.cs
+C:\vs2019\generic-repository\App.Data\bin\Debug\netcoreapp3.1\App.Data.pdb
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.csproj.CoreCompileInputs.cache
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.dll
+C:\vs2019\generic-repository\App.Data\obj\Debug\netcoreapp3.1\App.Data.pdb

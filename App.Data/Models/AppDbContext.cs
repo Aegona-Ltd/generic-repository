@@ -15,5 +15,13 @@ namespace App.Data.Models
         {
 
         }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseNpgsql("User ID=postgres;Password=12345678x!X;Host=datacenter.aegona.work;Port=5432;Database=demo_generic_repo;Pooling=true;");
+            }
+        }
     }
 }
